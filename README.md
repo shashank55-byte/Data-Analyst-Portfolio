@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shashank Aryan 
+# 👋 Hi, I'm Shashank Aryan
 
 **Data Analyst | Excel | Python | SQL | Power BI**  
 
@@ -27,8 +27,16 @@ I specialize in transforming raw data into actionable insights. My expertise lie
 - <a name="python-project"></a>[Airbnb Data Analysis](https://github.com/shashank55-byte/Airbnb_Data_Analysis) – Performed exploratory data analysis to uncover booking trends, pricing insights, and customer preferences.  
 
 ### Power BI Project  
-- <a name="power-bi-project"></a>[Netflix Dashboard](https://github.com/shashank55-byte/netflix_sql_project) – Built an interactive Power BI dashboard to visualize Netflix content distribution and trends.
-  
+- <a name="power-bi-project"></a>[Netflix Dashboard](https://github.com/shashank55-byte/netflix_sql_project) – Built an interactive Power BI dashboard to visualize Netflix content distribution and trends.  
+
+---
+
+## 🔹 Certification 
+
+- **Python 101 for Data Science (Jul 2025)** – Cognitive Class / IBM Developer Skills Network [🔗 Certificate Link](https://courses.cognitiveclass.ai/certificates/ce5c588b37c24bae8c72840a764354cf)  
+
+---
+
 ## 🔹 Connect  
 
 - 📧 Email: *shashankaryan55@gmail.com*  
